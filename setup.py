@@ -32,7 +32,7 @@ setup(
         "seqeval",
         "tensorboardx",
         "pandas",
-        "tokenizers",
+        "tokenizers==0.9.4",
         "wandb",
         "streamlit",
         "sentencepiece",
